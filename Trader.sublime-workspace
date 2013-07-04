@@ -1,0 +1,701 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-left:   (property)"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"tru",
+				"trueNeg"
+			],
+			[
+				"fal",
+				"falseNeg"
+			],
+			[
+				"fa",
+				"falsePos"
+			],
+			[
+				"ze",
+				"zeros"
+			],
+			[
+				"one",
+				"ones"
+			],
+			[
+				"on",
+				"oneCount"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"u",
+				"used"
+			],
+			[
+				"z",
+				"zerosNegativeByAttr"
+			],
+			[
+				"zero",
+				"zerosPositiveByAttr"
+			],
+			[
+				"o",
+				"onesPositiveByAttr"
+			],
+			[
+				"use",
+				"usedAttrs"
+			],
+			[
+				"b",
+				"best"
+			],
+			[
+				"ones",
+				"onesPositiveByAttr"
+			],
+			[
+				"pos",
+				"posProp"
+			],
+			[
+				"bin",
+				"binRemainder"
+			],
+			[
+				"sp",
+				"splitNeg"
+			],
+			[
+				"po",
+				"posProp"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"neg",
+				"negatives"
+			],
+			[
+				"Pos",
+				"positives"
+			],
+			[
+				"new",
+				"newDist"
+			],
+			[
+				"ini",
+				"initializeUniformly  (function)"
+			],
+			[
+				"ge",
+				"getPositionDistribution  (function)"
+			],
+			[
+				"newPos",
+				"newPosDist"
+			],
+			[
+				"part",
+				"particles"
+			],
+			[
+				"le",
+				"legalPositions"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"best",
+				"bestMove"
+			],
+			[
+				"aft",
+				"afterMove"
+			],
+			[
+				"act",
+				"action"
+			],
+			[
+				"get",
+				"getDistance"
+			],
+			[
+				"di",
+				"distancer"
+			],
+			[
+				"gh",
+				"ghostPos"
+			],
+			[
+				"be",
+				"beliefs"
+			],
+			[
+				"true",
+				"trueDistance"
+			],
+			[
+				"pac",
+				"pacmanPosition"
+			],
+			[
+				"no",
+				"noisyDistance"
+			],
+			[
+				"S",
+				"STOP  (variable)"
+			],
+			[
+				"action",
+				"actions"
+			],
+			[
+				"foo",
+				"foodShort"
+			],
+			[
+				"food",
+				"foodShort"
+			],
+			[
+				"is",
+				"isWin"
+			],
+			[
+				"avg",
+				"avgFoodDist"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"we",
+				"weights"
+			],
+			[
+				"as",
+				"asList"
+			],
+			[
+				"curr",
+				"currentGameState"
+			],
+			[
+				"getP",
+				"getPacmanPosition"
+			],
+			[
+				"ne",
+				"nextActions"
+			],
+			[
+				"expe",
+				"expectMinimax"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"alph",
+				"alphaBeta"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"cur",
+				"curDepth"
+			],
+			[
+				"ev",
+				"evaluationFunction"
+			],
+			[
+				"cu",
+				"curDepth"
+			],
+			[
+				"min",
+				"minimax"
+			],
+			[
+				"game",
+				"gameState"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"legal",
+				"legalMoves"
+			],
+			[
+				"mysqli_",
+				"mysqli_query"
+			],
+			[
+				"db",
+				"db_pass"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"oz",
+				"oz_flushed"
+			],
+			[
+				"spring",
+				"spring2013"
+			],
+			[
+				"fetch",
+				"fetch_array"
+			],
+			[
+				"signe",
+				"signed_up"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"la",
+				"late_mission"
+			],
+			[
+				"ear",
+				"early_mission"
+			],
+			[
+				"che",
+				"checkbox_name"
+			],
+			[
+				"my",
+				"mysql_escape_string"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "web.js",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Unix",
+				"name": "var express = require(\"express\");"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Procfile",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Noirbot/Dropbox/Sites/heroku/index.html",
+		"/Users/Noirbot/Dropbox/Sites/margaret/faq.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/summer_reading.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/contact_info.html",
+		"/Users/Noirbot/Dropbox/Sites/margaret/contact_mainText.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/css/style.css",
+		"/Users/Noirbot/Dropbox/Sites/margaret/CLCS.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/summer_writing.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/panel_discussions.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/BritishLit.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/m_header.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/classes1314.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/APLit.php",
+		"/Users/Noirbot/Dropbox/Sites/margaret/LitComp.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ Git/profile/index.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ Git/scripts/lib.php",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/AI - CS 3600/project4/project4.py",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/AI - CS 3600/Project 3/project3/inference.py",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/AI - CS 3600/Project 3/project3/bustersAgents.py",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/AI - CS 3600/Project 3/test2.py",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/AI - CS 3600/Project 3/test1.py",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/AI - CS 3600/Project 3/project3/util.py",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/AI - CS 3600/Project 3/project3/busters.py",
+		"/Users/Noirbot/Desktop/Project 3/project3/bustersAgents.py",
+		"/Users/Noirbot/Desktop/Project 3/project3/inference.py",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4641/P2/out/GeneticAdult.txt",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4641/P2/out/SAAdult.txt",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4641/P2/Raw Out.txt",
+		"/Users/Noirbot/Dropbox/HvZ/Zombie Fri.txt",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4641/P2/out/HillClimber.txt",
+		"/Users/Noirbot/Dropbox/HvZ/Zombie T PM",
+		"/Users/Noirbot/Dropbox/HvZ/FlippinCrazy.txt",
+		"/Users/Noirbot/Dropbox/HvZ/makeSQL.py",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4495/project2.sh",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4495/P2/out/Repeated Hill Climber x100.txt",
+		"/Users/Noirbot/Dropbox/HvZ/Zombie T AM.txt",
+		"/Users/Noirbot/Dropbox/HvZ/Human T AM.txt",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4495/P2/out/SA Temp 20.txt",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4495/mini.sh",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/AI - CS 3600/Project 2/Project 2 Grading Details.txt",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/AI - CS 3600/2/multiAgents.py",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4495/TTdata.sh",
+		"/Users/Noirbot/Dropbox/GT/Spring 2013/ML - CS 4495/test.sh",
+		"/Users/Noirbot/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Noirbot/Library/Application Support/Sublime Text 2/Packages/Pylinter/Pylinter.sublime-settings",
+		"/Users/Noirbot/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Noirbot/Dropbox/Sites/HvZ Git/achievements/.htaccess",
+		"/Users/Noirbot/Dropbox/Sites/HvZ Git/killboard/index.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ Git/chat/twit.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ Git/chat/index.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ Git/achievements/index.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ Git/profile/edit_player.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/Spring Rework/rules/quiz/rules_quiz.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/Spring Rework/rules/index.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/Spring Rework/scripts/chat_update.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/Spring Rework/rules/quiz/rules_quiz_grader.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/httpdocs rearranged/profile/edit_profile.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/httpdocs rearranged/profile/edit_player.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/httpdocs rearranged/css/base.css",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/httpdocs rearranged/admin/add_credit.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/httpdocs rearranged/profile/view_profile.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/httpdocs rearranged/killboard/index.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/httpdocs rearranged/profile/index.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/httpdocs rearranged/chat/twit.php",
+		"/Users/Noirbot/Dropbox/Sites/HvZ/httpdocs rearranged/scripts/lib.php",
+		"/Users/Noirbot/Dropbox/GT/Fall 2012/CS 3251/HW1"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Noirbot/Dropbox/Sites/margaret",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<span class=\"update\">",
+			"update",
+			"[CLC]",
+			"elec",
+			"1213%20summer%20reading.pdf",
+			"header",
+			"one",
+			"ones",
+			"print",
+			"util.raiseNotDefined()",
+			"rai",
+			"\"",
+			"print",
+			"caret",
+			"detect",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"zero",
+			"zeros",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "web.js",
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var express = require(\"express\");",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Procfile",
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"summ",
+				"summer_writing.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
